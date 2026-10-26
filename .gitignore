@@ -221,3 +221,4 @@ __marimo__/
 .env
 CLAUDE.md
 plan.md
+.DS_Store
